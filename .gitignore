@@ -1,0 +1,7 @@
+.env
+node_modules
+storage/database.sqlite
+package-lock.json
+nodemon.json
+storage/logs/errors.log
+storage/logs/services.log
